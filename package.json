@@ -1,0 +1,16 @@
+{
+  "name": "@kt3k/conditional-exports-example",
+  "version": "0.1.0",
+  "description": "",
+  "exports": {
+    ".": {
+      "require": "index.cjs",
+      "import": "index.mjs"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

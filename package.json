@@ -1,11 +1,11 @@
 {
   "name": "@kt3k/conditional-exports-example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "exports": {
     ".": {
-      "require": "index.cjs",
-      "import": "index.mjs"
+      "require": "./index.cjs",
+      "import": "./index.mjs"
     }
   },
   "scripts": {

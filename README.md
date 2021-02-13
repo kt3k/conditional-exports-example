@@ -1,6 +1,7 @@
 # @kt3k/conditional-exports-example
 
-Example of [conditional exports](https://nodejs.org/api/packages.html#packages_conditional_exports).
+Example of
+[conditional exports](https://nodejs.org/api/packages.html#packages_conditional_exports).
 
 ```js
 import x from "@kt3k/conditional-exports-example";
